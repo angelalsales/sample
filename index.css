@@ -1,0 +1,20 @@
+p {
+    color:red;
+    font-size: 50px;
+}
+
+.image {
+    width:50px;
+}
+
+.box {
+    width: 80px;
+    height: 80ox;
+    background: green;
+    margin: 10px;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid blue;
+}
